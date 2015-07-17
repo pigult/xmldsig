@@ -17,7 +17,7 @@
     ],
     "homepage": "https://github.com/Maks3w/",
     "require": {
-        "pigult/xmlseclibs": "*"
+        "pigult/xmlseclibs": "dev-master"
     },
     "autoload": {
         "psr-4": {
